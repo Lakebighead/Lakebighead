@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakebighead also known as Aviad
-- 👀 I’m interested in learning how to become a programmer
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Python.
+- 👀 I’m interested in learning how to become a front-end developer
+- 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on literally any sort of projects that'll help me improve my coding status.
 - 📫 How to reach me: You can add me on Discord at aviad#0001. I also am very active on my twitter which is on my profile.
 
