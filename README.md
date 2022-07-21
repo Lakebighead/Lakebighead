@@ -2,6 +2,8 @@
 <h1>Hello 😋!</h1>
 <h2>My name is <i>Aviad Churaman<i></h2>
 
+  
+<script>  
 let aviad = new webDeveloper();
 
 aviad.skills = {
@@ -13,3 +15,4 @@ aviad.interests = {
 aviad.facts = {
   
 }
+  </script>
