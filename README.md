@@ -3,7 +3,7 @@
 <h2>My name is <i>Aviad Churaman<i></h2>
 
   
-<script>  
+```javascript 
 let aviad = new webDeveloper();
 
 aviad.skills = {
@@ -15,4 +15,4 @@ aviad.interests = {
 aviad.facts = {
   
 }
-  </script>
+```
