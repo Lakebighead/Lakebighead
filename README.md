@@ -1,6 +1,6 @@
 
 <h1>Hello 😋!</h1>
-<h2>My name is Aviad Churaman</h2>
+<h2>My name is <i>Aviad Churaman<i></h2>
 
 let aviad = new webDeveloper();
 
