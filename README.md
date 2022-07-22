@@ -7,7 +7,7 @@
 let aviad = new webDeveloper();
 
 aviad.skills = {
-  languages: [“HTML” , “CSS” , “JavaScript” , “React”],
+  languages: [“HTML” , “CSS” , “JavaScript” , “React”]
 }
 aviad.interests = {
  ["coding", "reading", "cats"]
