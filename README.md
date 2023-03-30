@@ -7,31 +7,20 @@
     <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://www.twitter.com/NotMichaella" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=michaella23&style=flat-square&color=blue" alt=""/>
-  <h1> Hi there 👋 </h1>
+  <h1> Hello my name is Aviad! <img src="https://media0.giphy.com/media/xAqHUL21pMHe0/giphy.webp?cid=ecf05e475up5uxbcoj8fnypzp8hido5wg8faik3ox2jgxfno&rid=giphy.webp&ct=s" alt="animated gif of a cat waving" width="50"> </h1>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" alt="psychedelic gif of computers in a field of flowers and wildlife" width="900" />
-</div>
-
 ---
 
 ## :woman_technologist: About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
-- 🔭 I’m currently working on building more frontend projects after quite a while. I missed it!
-- 🌱 I’m currently learning more about accessibility and compiling my favorite resources.
-- 🤔 Things I need to look into... how to create React apps using Vite, the new Firebase course on [Scrimba](https://scrimba.com)
-- 💬 Ask me about the [Scrimba](https://scrimba.com) [mini-course](https://scrimba.com/playlist/pw5gDse) I recently created!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I have never visited another continent! I need to!
-<!-- - 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues. -->
+- 🔭 I’m currently working on building tons of Frontend projects!
+- 🌱 I’m currently learning more about React!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aviad-churaman-80b248209/) [Email](aviadchuraman@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I really love cats 🐈‍⬛
 
 ## :hammer_and_wrench: Languages and Tools
 
