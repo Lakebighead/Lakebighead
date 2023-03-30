@@ -13,6 +13,7 @@
   <h1> Hello my name is Aviad! <img src="https://media0.giphy.com/media/xAqHUL21pMHe0/giphy.webp?cid=ecf05e475up5uxbcoj8fnypzp8hido5wg8faik3ox2jgxfno&rid=giphy.webp&ct=s" alt="animated gif of a cat waving" width="50"> </h1>
 </div>
 
+
 ## About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I love learning new concepts and ideas! :)
 
@@ -33,7 +34,6 @@ I'm a web developer who enjoys building applications using frontend languages an
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
----
 
 ## :fire: My Stats:
 
