@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=jewelsonmyjeans&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=jewelsonmyjeans&style=flat-square&color=pink" alt=""/>
   <a href="https://wakatime.com/@8f1c83e4-0c95-4158-a5f8-a1af308a40a6"><img src="https://wakatime.com/badge/user/8f1c83e4-0c95-4158-a5f8-a1af308a40a6.svg" alt="Total time coded since Aug 27 2021" /></a>
   <h1> Hello my name is Aviad! <img src="https://media0.giphy.com/media/xAqHUL21pMHe0/giphy.webp?cid=ecf05e475up5uxbcoj8fnypzp8hido5wg8faik3ox2jgxfno&rid=giphy.webp&ct=s" alt="animated gif of a cat waving" width="50"> </h1>
 </div>
@@ -35,6 +35,6 @@ I'm a web developer who enjoys building applications using frontend languages an
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
-## :fire: My Stats:
+## 📊 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jewelsonmyjeans&theme=github-dark)](https://git.io/streak-stats)
