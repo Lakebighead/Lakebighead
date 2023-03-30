@@ -19,7 +19,7 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 - 💻 I’m currently working on building tons of Frontend projects!
 - 🌱 I’m currently learning more about React!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aviad-churaman-80b248209/) [Email](mailto: aviadchuraman@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aviad-churaman-80b248209/) [Email](mailto:aviadchuraman@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love cats 🐈‍⬛
 
